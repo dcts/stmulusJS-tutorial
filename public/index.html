@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="main.css">
+  <script src="bundle.js" async></script>
+</head>
+<body>
+  <h1 data-controller="example"></h1>
+  <div data-controller="hello">
+    <input data-target="hello.inputName" data-action="keyup->hello#printToCosole" type="text">
+    <button data-target="hello.buttonSubmitName" data-action="click->hello#greet">Greet</button>
+    <button data-action="click->hello#makeBgAwesome">Make Background Awesome</button>
+  </div>
+</body>
+</html>
