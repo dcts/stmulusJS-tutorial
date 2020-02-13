@@ -1,4 +1,8 @@
-# Stimulus Starter
+# Stimulus Tutorial
+
+me learning StimulusJS. Love it so far!
+
+### Instructions
 
 A preconfigured blank slate for exploring [Stimulus](https://github.com/stimulusjs/stimulus). Jump to [The Stimulus Handbook](https://stimulusjs.org/handbook/introduction) for an introduction.
 
